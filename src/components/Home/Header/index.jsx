@@ -6,7 +6,7 @@ const Header = () => {
     <header className='home-header'>
     <h2>SahayakSetu</h2>
    <h1>
-    <span>Search for Recourse</span>
+    <span>Search for Resources</span>
     </h1>
     <p>
         Lets collabrate  
