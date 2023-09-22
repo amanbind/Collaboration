@@ -7,7 +7,7 @@ const Search = ({value, handelSearchKey,clearSeach,formSubmit}) => {
     <form onSubmit={formSubmit}>
         <input 
         type='text'
-        placeholder="Search By Category"
+        placeholder="Search for resource"
         onChange={handelSearchKey}
         value = {value}
         />
